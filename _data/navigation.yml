@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Events/Meetings"
+    url: /events/
+  - title: "Committees"
+    url: /committees/
+  - title: "Calls to Action"
+    url: /action/

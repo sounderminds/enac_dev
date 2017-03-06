@@ -1,0 +1,26 @@
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    {% if site.data.ui-text[site.locale].follow_label %}
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+    {% if site.twitter.username %}
+      <li><a href="https://twitter.com/{{ site.twitter.username }}" target="_blank"><i class="fa fa-3x fa-twitter" aria-hidden="true"></i></a></li>
+    {% endif %}
+    {% if site.facebook.username %}
+      <li><a href="https://facebook.com/{{ site.facebook.username }}" target="_blank"><i class="fa fa-3x fa-facebook" aria-hidden="true"></i></a></li>
+    {% endif %}
+    {% if site.instagram.username %}
+      <li><a href="https://instagram.com/{{ site.instagram.username }}" target="_blank"><i class="fa fa-3x fa-instagram" aria-hidden="true"></i></a></li>
+    {% endif %}
+    {% if site.reddit.subreddit %}
+      <li><a href="https://reddit.com/r/{{ site.reddit.subreddit }}" target="_blank"><i class="fa fa-3x fa-reddit" aria-hidden="true"></i></a></li>
+    {% endif %}
+  </ul>
+
+  {% if site.footer.image %}
+    <div class="footer-image">
+      <img src="{{ site.footer.image }}"></img>
+    </div>
+  {% endif %}
+
+</div>
