@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+theme: minimal-mistakes-jekyll
 locale                   : "en-US"
 title                    : "Edmonds Neighborhood Action Coalition"
 title_separator          : "|"
@@ -48,7 +49,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 footer:
-  image                  : 
+  image                  :
 
 # SEO Related
 google_site_verification :
