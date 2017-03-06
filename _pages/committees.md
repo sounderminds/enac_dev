@@ -4,4 +4,8 @@ layout: single
 title: "ENAC Committees / Areas of Focus"
 ---
 
-<p>Here's some content.</p>
+<!-- Watchdog Committee
+Education Committee
+Healthcare Committee
+Ethics & Accountability Committee
+LGBTQ Committee -->
