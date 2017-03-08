@@ -68,7 +68,7 @@ instagram:
   username               :
 reddit:
   subreddit              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/resist_teaser.png
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
