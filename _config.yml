@@ -15,7 +15,7 @@ description              : "Be a Light"
 url                      : "http://edmondsnac.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sounderminds/sounderminds.github.io"
-teaser                   : assets/images/resist.png
+teaser                   : assets/images/resist_teaser.png
 # breadcrumbs            : false # true, false (default)
 words_per_minute         :
 comments:
