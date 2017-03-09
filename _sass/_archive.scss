@@ -77,6 +77,15 @@
   }
 }
 
+.archive__item {
+  a {
+    color: #333;
+    &:hover {
+      color: #222;
+    }
+  }
+}
+
 
 /*
    List view
