@@ -18,7 +18,13 @@
       <div class="archive__item">
         {% if f.fa_icon %}
           <div class="text-center">
+            {% if f.fa_icon_url %}
+            <a href="{{f.fa_icon_url}}">
+              <i class="fa fa-3x fa-{{ f.fa_icon }}"></i>
+            </a>
+            {% else %}
             <i class="fa fa-3x fa-{{ f.fa_icon }}"></i>
+            {% endif %}
             <p class="text-center">
               {{ f.caption }}
             </p>
@@ -34,10 +40,6 @@
             <div class="archive__item-excerpt">
               {{ f.excerpt | markdownify }}
             </div>
-          {% endif %}
-
-          {% if f.url %}
-            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
         </div>
       </div>
