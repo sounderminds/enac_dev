@@ -7,4 +7,4 @@ weight : 1
 
 <br>
 
-<iframe src="https://calendar.google.com/calendar/embed?showNav=0&amp;showCalendars=0&amp;showTz=0&amp;width=600&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=rde49hvqfk9km5kt48bmokf9s4%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FLos_Angeles" style="border-width:4" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;width=600&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=rde49hvqfk9km5kt48bmokf9s4%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FLos_Angeles" style="border-width:4" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
