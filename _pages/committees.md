@@ -13,13 +13,13 @@ layout: single
 <h6><a href="mailto:communications.edmondsnac@gmail.com?subject=Communications Committee"><i class="fa fa-envelope-o" aria-hidden="true"></i></a> Paulette Hauck  </h6>
 *****
 <h2><img src="/assets/images/021-teamwork.png"> Community Outreach</h2>
-<h6>Contact Committee Chair: Courtney Wooten  <a href="mailto:outreach.edmondsnac@gmail.com?subject=Community Outreach Committee"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></h6>
+<h6><a href="mailto:outreach.edmondsnac@gmail.com?subject=Community Outreach Committee"><i class="fa fa-envelope-o" aria-hidden="true"></i></a> Courtney Wooten </h6>
 *****
 <h2><img src="/assets/images/003-clapperboard.png"> Direct Action</h2>
 <h6><a href="mailto:direcoaction.edmondsnac@gmail.com?subject=Direct Action Committee"><i class="fa fa-envelope-o" aria-hidden="true"></i></a> Catherine Berwick & Donna Murphy </h6>
 *****
 <h2><img src="/assets/images/017-books.png"> Education</h2>
-<h6>Contact Committee Chair: Thomas Gerrard  <a href="mailto:education.edmondsnac@gmail.com?subject=Education Committee"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></h6>
+<h6><a href="mailto:education.edmondsnac@gmail.com?subject=Education Committee"><i class="fa fa-envelope-o" aria-hidden="true"></i></a> Thomas Gerrard</h6>
 *****
 <h2><img src="/assets/images/014-balance.png"> Ethics & Accountability</h2>
 <h6><a href="mailto:ethics.edmondsnac@gmail.com?subject=Ethics & Accountability Committee"><i class="fa fa-envelope-o" aria-hidden="true"></i></a> Donna Vaudrin & Robin Westbrook</h6>
