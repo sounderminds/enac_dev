@@ -17,9 +17,9 @@
     {% endif %}
   </ul>
 
-  {% if site.footer.image %}
-    <div class="footer-image">
-      <img src="{{ site.footer.image }}"></img>
+  {% if page.footer_attribution %}
+    <div class="footer-attribution">
+      {{ page.footer_attribution }}
     </div>
   {% endif %}
 
