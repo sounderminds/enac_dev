@@ -5,6 +5,7 @@ title: "ENAC Committees"
 ---
 
 ### Current Committee List:
+##### **list is incomplete as committees are still forming**
 -----
 
 <!-- Watchdog
@@ -14,7 +15,7 @@ Ethics & Accountability
 LGBTQ  
 Immigration and Racism
 Communications
-Facilitation
+Facilitation: facilitation.edmondsnac@gmail.com
 First Amendment
 Women's Rights
 Direct Action
