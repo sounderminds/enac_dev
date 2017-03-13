@@ -2,6 +2,27 @@
 layout: single
 permalink: /imagegallery/
 gallery1:
+- url: /assets/images/20170225_103758.jpg
+  image_path: /assets/images/20170225_103758.jpg
+- url: /assets/images/20170311_134430.jpg
+  image_path: /assets/images/20170311_134430.jpg
+- url: /assets/images/20170225_114140.jpg
+  image_path: /assets/images/20170225_114140.jpg
+- url: /assets/images/20170225_114234.jpg
+  image_path: /assets/images/20170225_114234.jpg
+- url: /assets/images/20170311_134451.jpg
+  image_path: /assets/images/20170311_134451.jpg  
+- url: /assets/images/VZM.IMG_20170130_091357.jpg
+  image_path: /assets/images/VZM.IMG_20170130_091357.jpg    
+- url: /assets/images/20170212_102852.jpg
+  image_path: /assets/images/20170212_102852.jpg
+- url: /assets/images/20170212_102946.jpg
+  image_path: /assets/images/20170212_102946.jpg
+- url: /assets/images/20170212_103108.jpg
+  image_path: /assets/images/20170212_103108.jpg
+- url: /assets/images/20170212_102852.jpg
+  image_path: /assets/images/20170212_102852.jpg    
+gallery2:
   - url: /assets/images/157.jpg
     image_path: /assets/images/157.jpg
     alt: "First ENAC Meeting"
@@ -35,7 +56,7 @@ gallery1:
     title: "LGBTQ Rally"
   - url: /assets/images/suprising2.jpg
     image_path: /assets/images/suprising2.jpg
-gallery2:    
+gallery3:    
   - url: /assets/images/edmonsrally.jpg
     image_path: /assets/images/edmonsrally.jpg
     alt: "Edmonds Immigration Rally"
@@ -44,7 +65,7 @@ gallery2:
     image_path: /assets/images/immigration_Rally.jpg
     alt: "Edmonds Immigration Rally"
     title: "Edmonds Immigration Rally"
-gallery3:    
+gallery4:    
   - url: /assets/images/immigrationrally.jpg
     image_path: /assets/images/immigrationrally.jpg
     alt: "Edmonds Immigration Rally"
@@ -57,16 +78,18 @@ gallery3:
     image_path: /assets/images/pp1.jpg
     alt: "Planned Parenthood March"
     title: "Planned Parenthood March"
-  - url: /assets/images/pp3.jpg
-    image_path: /assets/images/pp3.jpg
-    alt: "Planned Parenthood March"
-    title: "Planned Parenthood March"  
+  - url: /assets/images/suprising.jpg
+    image_path: /assets/images/suprising.jpg  
+  - url: /assets/images/20170311_134437.jpg
+    image_path: /assets/images/20170311_134437.jpg
   - url: /assets/images/radicalwomen.jpg
     image_path: /assets/images/radicalwomen.jpg
     alt: "Planned Parenthood March"
     title: "Planned Parenthood March"  
-  - url: /assets/images/suprising.jpg
-    image_path: /assets/images/suprising.jpg  
+  - url: /assets/images/pp3.jpg
+    image_path: /assets/images/pp3.jpg
+    alt: "Planned Parenthood March"
+    title: "Planned Parenthood March"  
 
 ---
 <h3>Past Events Attended by ENAC Members</h3>
@@ -74,3 +97,4 @@ gallery3:
 {% include gallery id="gallery1" %}
 {% include gallery id="gallery2" %}
 {% include gallery id="gallery3" %}
+{% include gallery id="gallery4" %}
