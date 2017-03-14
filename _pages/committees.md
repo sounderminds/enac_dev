@@ -29,7 +29,7 @@ footer_attribution: "<a href='/icon_attribution/'>icon attribution info</a>"
 *****
 <h2><img src="/assets/images/004-time.png"> Facilitation</h2>
 <p><h4>Working to make ENAC general meetings happen. This includes the logistics of securing and coordinating a venue, preparing an agenda with the input of committees, facilitating meetings, and producing meeting minutes. Please contact one of the facilitators if you or your committee would like to suggest an agenda item for a meeting.</h4></p>
-<h6><a href="mailto:facilitation.edmondsnac@gmail.com?subject=Facilitation Committee"><i class="fa fa-envelope-o" aria-hidden="true"></i> Contact Person TBD</a></h6>
+<h6><a href="mailto:facilitation.edmondsnac@gmail.com?subject=Facilitation Committee"><i class="fa fa-envelope-o" aria-hidden="true"></i> Leslie & Josh</a></h6>
 *****
 <h2><img src="/assets/images/023-statue-of-liberty.png"> First Amendment</h2>
 <h6><a href="mailto:firstamendment.edmondsnac@gmail.com?subject=First Amendment Committee"><i class="fa fa-envelope-o" aria-hidden="true"></i> Contact Person TBD</a></h6>
