@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Call to Action Items"
-permalink: /action/
+permalink: /resources/
 header:
   overlay_color: "#333"
 share: true
