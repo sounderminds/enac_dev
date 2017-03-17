@@ -22,6 +22,7 @@ footer_attribution: "<a href='/icon_attribution/'>icon attribution info</a>"
 <h6><a href="mailto:direcoaction.edmondsnac@gmail.com?subject=Direct Action Committee"><i class="fa fa-envelope-o" aria-hidden="true"></i> Catherine & Donna</a></h6>
 *****
 <h2><img src="/assets/images/017-books.png"> Education</h2>
+<p><h4>Supports and defends public education at the national, state, and local levels. We advocate for prompt and ample funding of basic education in accordance with our state’s constitutional duty, oppose any attempt by Devos and 45 to privatize our schools, and encourage the Edmonds School District to implement policies that address issues of social justice for students of color, religious minorities, immigrants, low-income students and those who are LGBTQ.</h4></p>
 <h6><a href="mailto:education.edmondsnac@gmail.com?subject=Education Committee"><i class="fa fa-envelope-o" aria-hidden="true"></i> Thomas</a></h6>
 *****
 <h2><img src="/assets/images/014-balance.png"> Ethics & Accountability</h2>
