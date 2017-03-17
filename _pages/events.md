@@ -1,10 +1,21 @@
 ---
 permalink: /events/
 layout: single
-title: "ENAC Calendar"
 weight : 1
 ---
 
-<br>
-
-<iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;width=600&amp;height=400&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=rde49hvqfk9km5kt48bmokf9s4%40group.calendar.google.com&amp;color=%232F6309&amp;ctz=America%2FLos_Angeles" style="border-width:4" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<div style="text-align:center;">
+  <div class="fb-page"
+       data-href="https://www.facebook.com/EdmondsNAC/"
+       data-tabs="events"
+       data-width="500"
+       data-height="1000"
+       data-small-header="true"
+       data-adapt-container-width="true"
+       data-hide-cover="true"
+       data-show-facepile="false">
+          <blockquote cite="https://www.facebook.com/EdmondsNAC/" class="fb-xfbml-parse-ignore">
+            <a href="https://www.facebook.com/EdmondsNAC/">Edmonds Neighborhood Action Coalition</a>
+          </blockquote>
+  </div>
+</div>
