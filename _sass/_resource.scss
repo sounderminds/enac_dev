@@ -1,0 +1,32 @@
+.resource__item {
+  @include container;
+  display: flex;
+}
+
+.resource__title {
+  font-size: $type-size-5;
+}
+
+.resource__caption {
+  font-size: $type-size-6;
+}
+
+.resource__image {
+  display: none;
+  @include breakpoint($small) {
+    @include span(4 of 12);
+    display: inline;
+    margin: auto;
+  }
+}
+
+.resource__content {
+  @include span(12 of 12);
+  text-align: center;
+  @include breakpoint($small) {
+    @include span(8 of 12 last);
+    margin: auto;
+    margin-left: gutter(4);
+    text-align: left;
+  }
+}

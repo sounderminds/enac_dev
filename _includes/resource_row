@@ -1,0 +1,43 @@
+{% if include.id %}
+  {% assign resource_row = page.[include.id] %}
+{% else %}
+  {% assign resource_row = page.resource_row %}
+{% endif %}
+
+{% for f in resource_row %}
+
+  {% if f.url contains "://" %}
+    {% capture f_url %}{{ f.url }}{% endcapture %}
+  {% else %}
+    {% capture f_url %}{{ f.url | absolute_url }}{% endcapture %}
+  {% endif %}
+
+  <div class="resource__item">
+    <div class="resource__image">
+        <img src=
+          {% if f.image_path contains "://" %}
+            "{{ f.image_path }}"
+          {% else %}
+            "{{ f.image_path | absolute_url }}"
+          {% endif %}
+        />
+    </div>
+    <div class="resource__content">
+      <div class="resource__title">
+        <a href=
+          {% if f.title_url contains "://" %}
+            "{{ f.title_url }}"
+          {% else %}
+            "{{ f.title_url | absolute_url }}"
+          {% endif %}
+        target="_blank">
+          {{ f.title }}
+        </a>
+      </div>
+      <div class="resource__caption">
+        {{ f.excerpt }}
+      </div>
+    </div>
+  </div>
+  <hr/>
+{% endfor %}

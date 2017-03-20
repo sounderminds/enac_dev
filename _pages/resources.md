@@ -1,13 +1,18 @@
 ---
 layout: single
-title: "Call to Action Items"
+title: Resources
 permalink: /resources/
 header:
   overlay_color: "#333"
-share: true
+resource_row:
+  - image_path: "/assets/images/snoco.png"
+    title_url: "https://weiapplets.sos.wa.gov/elections/officesOpenForElection?countyCode=SN"
+    title: "Snohomish County Elections"
+    excerpt: "Offices Open 2017"
+  - image_path: "/assets/images/indivisibleguide.jpg"
+    title_url: "https://www.indivisibleguide.com/web"
+    title: "Indivisible Guide"
+    excerpt: "<em>A Practical Guide for Resisting the Trump Agenda</em><br/> Former congressional staffers reveal best practices for making Congress listen"
 ---
 
-<p>
-<img src="/assets/images/indivisibleguide.png" alt="image-center" class="align-center"/><a href="https://www.indivisibleguide.com/web" target="_blank"> Indivisible Guide:</a> A practical guide for resisting the Trump agenda.
-Former congressional staffers reveal best practices for making Congress listen.
-</p>
+{% include resource_row %}
