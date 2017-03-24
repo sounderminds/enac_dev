@@ -5,6 +5,14 @@ permalink: /resources/
 header:
   overlay_color: "#333"
 resource_row:
+  - image_path: "/assets/images/5calls.png"
+    title_url: "https://5calls.org/"
+    title: "5 Calls (app)"
+    excerpt: "Make your voice heard"
+  - image_path: "/assets/images/resistbot.png"
+    title_url: "https://resistbot.io/"
+    title: "Resist Bot"
+    excerpt: "Fax your Senators and Representatives via text message"
   - image_path: "/assets/images/snoco.png"
     title_url: "https://weiapplets.sos.wa.gov/elections/officesOpenForElection?countyCode=SN"
     title: "Snohomish County Elections"
