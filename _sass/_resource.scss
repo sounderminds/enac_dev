@@ -16,6 +16,7 @@
   @include breakpoint($small) {
     @include span(4 of 12);
     display: inline;
+    text-align: center;
     margin: auto;
   }
 }
