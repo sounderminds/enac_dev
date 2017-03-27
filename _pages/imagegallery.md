@@ -1,5 +1,7 @@
 ---
 layout: single
+title: "Images"
+skip_header: true
 permalink: /imagegallery/
 gallery1:
 - url: /assets/images/20170225_103758.jpg

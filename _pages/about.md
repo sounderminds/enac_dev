@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 layout: single
-title: "About ENAC"
+title: "About Us"
 ---
 
 <p>Here's some content.</p>

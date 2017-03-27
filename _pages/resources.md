@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Resources
+title: "Resources"
 permalink: /resources/
 header:
   overlay_color: "#333"
@@ -38,5 +38,4 @@ resource_row:
     title: "regulations.gov"
     excerpt: "View and comment on Proposed Rules and Rules developed by executive and independent agencies of the Federal government"
 ---
-
 {% include resource_row %}

@@ -1,5 +1,7 @@
 ---
 layout: single
+title: "Subscribe"
+skip_header: true
 permalink: /newsletter_form/
 
 ---

@@ -1,5 +1,7 @@
 ---
 layout: single
+title: "Credits"
+skip_header: true
 permalink: /icon_attribution/
 ---
 

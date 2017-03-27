@@ -1,6 +1,8 @@
 ---
 permalink: /committees/
 layout: single
+title: "Committees"
+skip_header: true
 footer_attribution: "<a href='/icon_attribution/'>icon attribution info</a>"
 ---
 <h1>ENAC Committees</h1>

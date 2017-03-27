@@ -9,9 +9,10 @@
 
 locale                   : "en-US"
 title                    : "Edmonds Neighborhood Action Coalition"
-title_separator          : "|"
+short_title              : "ENAC"
+title_separator          : "&#124;"
 name                     : "ENAC"
-description              : "Be a Light"
+description              : "Edmonds Neighborhood Action Coalition"
 url                      : "http://edmondsnac.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "sounderminds/sounderminds.github.io"

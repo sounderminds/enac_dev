@@ -1,5 +1,7 @@
 ---
 permalink: /events/
+title: "Events"
+skip_header: true
 layout: single
 weight : 1
 ---
